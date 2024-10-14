@@ -31,7 +31,7 @@ jobs:
 
       - name: Generate Skills Map
         run: |
-          python .github/workflows/generate_skills_map.py
+          python .github/generate_skills_map.py
 
       - name: Upload Skills Map
         uses: actions/upload-artifact@v3
