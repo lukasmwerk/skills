@@ -28,7 +28,7 @@ jobs:
 
       - name: Generate Skills Map
         run: |
-          python generate_skills_map.py
+          python .github/workflows/generate_skills_map.py
 
       - name: Upload Skills Map
         uses: actions/upload-artifact@v3
@@ -40,6 +40,6 @@ jobs:
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add repo_structure.png
+          git add skills_map.png
           git commit -m "Add generated skills map" || echo "No changes to commit"
           git push
