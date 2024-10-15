@@ -4,4 +4,4 @@ The structure of this repo is essentially a documentation of my development, wit
 
 ## October 2024
 
-Java, Testing, Debugging, APIs, Databases
+Java Touch Up: Testing, Debugging, APIs, Databases
