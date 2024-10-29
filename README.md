@@ -46,6 +46,7 @@ The structure of this repo is essentially a documentation of my development, wit
 
 ### DevOps, CI/CD, Deployment, Lifecycle
 | _Technology_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+|-----|:-----:|:-----:|:-----:|:-----:|-----|
 | Windows/MacOS/Linux | ✅ | ✅ | ✅ | ✅ | Comfortable in use and dev environment |
 | Visual Studio/VSCode/Jetbrains/Vim | ✅ | ✅ | ✅ | ✅ | No bottlenecks |
 | Git | ✅ | ✅ | ✅ | ✅ | Git is a database |
