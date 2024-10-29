@@ -4,8 +4,10 @@ The structure of this repo is essentially a documentation of my development, wit
 
 ## Skills Overview 
 *Only includes the most relevant skills*\
-*Experienced = I am confident using this professionally pretty much off the bat*\
-*Not really going into more detail above experienced because its not too relevant*
+- *Know the Basics = I am familiar with the mindset and paradigms, and could learn pretty quickly*
+- *Studied It = Have read books, docs, code, and possibly written limited code to practice concepts*
+- *Used It = I have used it in projects and could write quality code in a professional context, without advanced features and tricks*
+- *Experienced = I am confident using this professionally pretty much off the bat*
 
 ### Languages
 | _Language_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
