@@ -23,6 +23,7 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | Rust | ✅ | ✅ | | | Read the book, coded some basics while learning |
 | OCaml | ✅ | ✅ | ✅ | | Used it in classes, more importantly I am familiar with the functional paradigm |
 | LaTeX | ✅ | ✅ | ✅ | ✅ | Can write and stylize papers and documents in latex professionally |
+| SQL | ✅ | ✅ | ✅ |  | Comfortable with using SQL, not fluent |
 
 ### Frameworks, Protocols, Styles
 | _Framework_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
