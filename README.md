@@ -72,6 +72,15 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | Salesforce | ✅ | ✅ | ✅ | ✅ | Not a master, but used it professionally, understand the underlying architecture, security/auth, flows, etc |
 | Scrum | ✅ | ✅ | ✅ | ✅ | Many projects, understand pitfalls and paths to success |
 
+### Testing and Documentation
+| _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+|-----|:-----:|:-----:|:-----:|:-----:|-----|
+| Doxygen | ✅ | ✅ | ✅ | ✅ | Use it for my audio apps |
+| Postman | ✅ | ✅ | ✅ | ✅ | Used it for school assignments |
+| Swagger | ✅ |  |  |  | Learning it |
+| Google Test | ✅ | ✅ | ✅ | ✅ | Used it for my audio apps |
+| Wireshark | ✅ | ✅ | ✅ | | Used in school, comfortable with most of the interface |
+
 ### AWS, Azure, etc
 | _Service_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
@@ -97,19 +106,15 @@ taking an aws course, will fill this in soon
 | Excel | ✅ | ✅ | ✅ | ✅ | Used personally, professionally, not an expert but proficient |
 | Jupyter Notebooks | ✅ | ✅ | ✅ | ✅ | Pretty straightforward |
 
-
+<sub>Under construction</sub>
 ### Machine Learning
 | _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
 
-### Testing and Documentation
+### Misc.
 | _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
-| Doxygen | ✅ | ✅ | ✅ | ✅ | Use it for my audio apps |
-| Postman | ✅ | ✅ | ✅ | ✅ | Used it for school assignments |
-| Swagger | ✅ |  |  |  | Learning it |
-| Google Test | ✅ | ✅ | ✅ | ✅ | Used it for my audio apps |
-| Wireshark | ✅ | ✅ | ✅ | | Used in school, comfortable with most of the interface |
+
 
 
 
