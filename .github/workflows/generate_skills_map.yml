@@ -1,6 +1,7 @@
 name: Generate Skills Map
 
 on:
+  workflow_dispatch:
   # push:
   #   branches:
   #     - main
