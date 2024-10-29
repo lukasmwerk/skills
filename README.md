@@ -8,6 +8,7 @@ Note: The contents of the folders above are for my own personal use, tracking my
 - *Experienced = I am confident using this professionally pretty much off the bat, at minimum in a junior role*
   
 **Bolded** are items that I am most recently/currently working with or actively learning
+Empty slots are skills im either learning right now, or intend to learn soon
 
 ### Languages
 | _Language_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
@@ -56,7 +57,7 @@ Note: The contents of the folders above are for my own personal use, tracking my
 | **Kubernetes** | ✅ | ✅ | ✅ |  | Not an expert, run K3s on a personal cluster, have deployed apps on it |
 | OpenShift | ✅ | ✅ |  |  | Worked on projects where this was the underlying enterprise solution, understand the tools and offerings |
 | Prometheus | ✅ | ✅ | ✅ | | Used for a project |
-| Graphana | ✅ | ✅ | ✅ | | Used for a project
+| Graphana | ✅ | ✅ | ✅ | | Used for a project |
 | PagerDuty | ✅ | ✅ |  | | Learned it for projects, haven't used significantly yet |
 | Scrum | ✅ | ✅ | ✅ | ✅ | Many projects, understand pitfalls and paths to success |
 | **Jira**/Trello/Hive | ✅ | ✅ | ✅ | ✅ | Comfortable with almost all the features (outside of apps) |
@@ -66,12 +67,45 @@ Note: The contents of the folders above are for my own personal use, tracking my
 | Scrum | ✅ | ✅ | ✅ | ✅ | Many projects, understand pitfalls and paths to success |
 
 ### AWS, Azure, etc
+| _Service_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+|-----|:-----:|:-----:|:-----:|:-----:|-----|
+| ACM |  |  |  | | |
+| Cloudwatch |  |  |  | | |
+| Cloudfront |  |  |  | | |
+| Code Pipeline |  |  |  | | |
+| ECR |  |  |  | | |
+| EKS |  |  |  | | |
+| ELB |  |  |  | | |
+| Fargate |  |  |  | | |
+| Lambda |  |  |  | | |
+| RDS |  |  |  | | |
+| S3 |  |  |  | | |
+taking an aws course, will fill this in soon
 
 ### Data Science, Engineering, Big Data
+| _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+|-----|:-----:|:-----:|:-----:|:-----:|-----|
+| Apache Spark | ✅ | | | | Learning |
+| Apache Kafka | ✅ | | | | Learning |
+| JMP | ✅ | ✅ | ✅ | | Used for studies, pretty comfortable |
+| Excel | ✅ | ✅ | ✅ | ✅ | Used personally, professionally, not an expert but proficient |
+| Jupyter Notebooks | ✅ | ✅ | ✅ | ✅ | Pretty straightforward |
+
 
 ### Machine Learning
+| _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+|-----|:-----:|:-----:|:-----:|:-----:|-----|
 
-### Testing
+### Testing and Documentation
+| _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+|-----|:-----:|:-----:|:-----:|:-----:|-----|
+| Doxygen | ✅ | ✅ | ✅ | ✅ | Use it for my audio apps |
+| Postman | ✅ | ✅ | ✅ | ✅ | Used it for school assignments |
+| Swagger | ✅ |  |  |  | Learning it |
+| Google Test | ✅ | ✅ | ✅ | ✅ | Used it for my audio apps |
+| Wireshark | ✅ | ✅ | ✅ | | Used in school, comfortable with most of the interface |
+
+
 
 
 
