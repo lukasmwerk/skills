@@ -33,6 +33,7 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | Next.js | ✅ | ✅ |  |  | Have used for one website project |
 | JUCE | ✅ | ✅ |  |  | Learned for audio dev, know how to get around, well read with the source code, but don't use it extensively |
 | Flask | ✅ | ✅ | ✅ |  | A few small backends and webapps |
+| Django | ✅ | ✅ |  |  | Learned it but never used it for projects or work |
 | **Spring Boot** | ✅ | ✅ | ✅ |  | Learned back in highschool, touching up now for web services |
 | REST | ✅ | ✅ | ✅ | ✅ | Used for most of my past projects/assignments |
 | **GraphQL** | ✅ | ✅ |  |  | Know how to write and use, haven't built anything with it yet |
@@ -45,6 +46,9 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | **PostgreSQL** | ✅ | ✅ | ✅ |  | Can get around well, but theres just a lot of features I don't know yet |
 | Salesforce | ✅ | ✅ | ✅ | ✅ | Have worked with this professionally |
 | Redis | ✅ | ✅ | ✅ |  | Used for cache-aside patterns in personal projects |
+| DynamoDB | ✅ | | | | Read the paper |
+| MySQL | | | | | |
+| MariaDB | | | | | |
 
 ### DevOps, CI/CD, Deployment, Lifecycle
 | _Technology_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
@@ -59,6 +63,7 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | OpenShift | ✅ | ✅ |  |  | Worked on projects where this was the underlying enterprise solution, understand the tools and offerings |
 | Prometheus | ✅ | ✅ | ✅ | | Used for a project |
 | Graphana | ✅ | ✅ | ✅ | | Used for a project |
+| Datadog | | | | | |
 | PagerDuty | ✅ | ✅ |  | | Learned it for projects, haven't used significantly yet |
 | Scrum | ✅ | ✅ | ✅ | ✅ | Many projects, understand pitfalls and paths to success |
 | **Jira**/Trello/Hive | ✅ | ✅ | ✅ | ✅ | Comfortable with almost all the features (outside of apps) |
