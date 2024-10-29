@@ -3,11 +3,11 @@ Note: This is a tool that I actively use in my personal "practice time" as a sof
 The structure of this repo is essentially a documentation of my development, with some links and resources, notes and personal thoughts and plans.
 
 ## Skills Overview 
-*Only includes the most relevant skills*\
+*Only includes the most relevant skills*
 - *Know the Basics = I am familiar with the mindset and paradigms, and could learn pretty quickly*
 - *Studied It = Have read books, docs, code, and possibly written limited code to practice concepts*
 - *Used It = I have used it in projects and could write quality code in a professional context, without advanced features and tricks*
-- *Experienced = I am confident using this professionally pretty much off the bat*
+- *Experienced = I am confident using this professionally pretty much off the bat, at minimum in a junior role*
 
 ### Languages
 | _Language_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
@@ -23,7 +23,7 @@ The structure of this repo is essentially a documentation of my development, wit
 | OCaml | ✅ | ✅ | ✅ | | Used it in classes, more importantly I am familiar with the functional paradigm |
 | LaTeX | ✅ | ✅ | ✅ | ✅ | Can write and stylize papers and documents in latex professionally |
 
-### Frameworks
+### Frameworks, Protocols, Styles
 | _Framework_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
 | React | ✅ | ✅ | ✅ | ✅ | Have made multiple webpages/dashboards, comfortable with the flux way of thinking |
@@ -32,6 +32,8 @@ The structure of this repo is essentially a documentation of my development, wit
 | JUCE | ✅ | ✅ |  |  | Learned for audio dev, know how to get around, well read with the source code, but don't use it extensively |
 | Flask | ✅ | ✅ | ✅ |  | A few small backends and webapps |
 | Spring Boot | ✅ | ✅ | ✅ |  | Learned back in highschool, touching up now for web services |
+| REST | ✅ | ✅ | ✅ | ✅ | Used for most of my past projects/assignments |
+| GraphQL | ✅ | ✅ |  |  | Know how to write and use, haven't built anything with it yet |
 
 ### Databases
 | _Database_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
@@ -41,4 +43,40 @@ The structure of this repo is essentially a documentation of my development, wit
 | PostgreSQL | ✅ | ✅ | ✅ |  | Can get around well, but theres just a lot of features I don't know yet |
 | Salesforce | ✅ | ✅ | ✅ | ✅ | Have worked with this professionally |
 | Redis | ✅ | ✅ | ✅ |  | Used for cache-aside patterns in personal projects |
+
+### DevOps, CI/CD, Deployment, Lifecycle
+| _Technology_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
+| Windows/MacOS/Linux | ✅ | ✅ | ✅ | ✅ | Comfortable in use and dev environment |
+| Visual Studio/VSCode/Jetbrains/Vim | ✅ | ✅ | ✅ | ✅ | No bottlenecks |
+| Git | ✅ | ✅ | ✅ | ✅ | Git is a database |
+| Github/Gitlab | ✅ | ✅ | ✅ | ✅ | Yep |
+| Github Actions | ✅ | ✅ | ✅ | ✅ | Used it for most of my automated testing |
+| Docker | ✅ | ✅ | ✅ |  | Not an expert, but can get a container from 0 to deployment |
+| Kubernetes | ✅ | ✅ | ✅ |  | Not an expert, run K3s on a personal cluster, have deployed apps on it |
+| OpenShift | ✅ | ✅ |  |  | Worked on projects where this was the underlying enterprise solution, understand the tools and offerings |
+| Prometheus | ✅ | ✅ | ✅ | | Used for a project |
+| Graphana | ✅ | ✅ | ✅ | | Used for a project
+| PagerDuty | ✅ | ✅ |  | | Learned it for projects, haven't used significantly yet |
+| Scrum | ✅ | ✅ | ✅ | ✅ | Many projects, understand pitfalls and paths to success |
+| Jira/Trello/Hive | ✅ | ✅ | ✅ | ✅ | Comfortable with almost all the features (outside of apps) |
+| Confluence | ✅ | ✅ | ✅ | ✅ | Yep |
+| Slack/Teams/etc | ✅ | ✅ | ✅ | ✅ | Yes |
+| Salesforce | ✅ | ✅ | ✅ | ✅ | Not a master, but used it professionally, understand the underlying architecture, security/auth, flows, etc |
+| Scrum | ✅ | ✅ | ✅ | ✅ | Many projects, understand pitfalls and paths to success |
+
+### AWS, Azure, etc
+
+### Data Science, Engineering, Big Data
+
+### Machine Learning
+
+### Testing
+
+
+
+
+
+
+
+
 
