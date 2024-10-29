@@ -7,7 +7,7 @@ Note: The contents of the folders above are for my own personal use, tracking my
 - *Used It = I have used it in projects and could write quality code in a professional context, without advanced features and tricks*
 - *Experienced = I am confident using this professionally pretty much off the bat, at minimum in a junior role*
   
-**Bolded** items are ones that I am most recently/currently working with or actively learning
+**Bolded** are items that I am most recently/currently working with or actively learning
 
 ### Languages
 | _Language_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
