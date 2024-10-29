@@ -49,7 +49,7 @@ The structure of this repo is essentially a documentation of my development, wit
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
 | Windows/MacOS/Linux | ✅ | ✅ | ✅ | ✅ | Comfortable in use and dev environment |
 | Visual Studio/VSCode/Jetbrains/Vim | ✅ | ✅ | ✅ | ✅ | No bottlenecks |
-| Git | ✅ | ✅ | ✅ | ✅ | Git is a database |
+| Git | ✅ | ✅ | ✅ | ✅ | Comfortable with branching/merging, hooks, org-level, logs, etc |
 | Github/Gitlab | ✅ | ✅ | ✅ | ✅ | Yep |
 | Github Actions | ✅ | ✅ | ✅ | ✅ | Used it for most of my automated testing |
 | Docker | ✅ | ✅ | ✅ |  | Not an expert, but can get a container from 0 to deployment |
