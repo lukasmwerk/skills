@@ -7,7 +7,7 @@ _Note: This list only really includes concrete technical skills and technologies
 - *Know the Basics = I am familiar with the mindset and paradigms, and could learn pretty quickly*
 - *Studied It = Have read books, docs, code, and possibly written limited code to practice concepts*
 - *Used It = I have used it in projects and could write quality code in a professional context, without advanced features and tricks*
-- *Experienced = I am confident using this professionally pretty much off the bat, at minimum in a junior role*
+- *Experienced = I am confident using this professionally pretty much off the bat, at minimum in a junior role. Doesn't mean I think I mastered the skill*
   
 **Bolded** are items that I am most recently/currently working with or actively learning\
 Empty slots are skills im either learning right now, or intend to learn soon
