@@ -117,6 +117,7 @@ taking an aws cert course, will fill this in soon
 | Jupyter Notebooks | ✅ | ✅ | ✅ | ✅ | Pretty straightforward |
 | Numpy | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
 | Pandas | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| Scrapy | ✅ | ✅ | ✅ |  | Have used for simple web-scraping |
 | Seaborn | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
 | Plotly | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
 | Matplotlib | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
