@@ -142,7 +142,7 @@ taking an aws cert course, will fill this in soon
 | _Skill/Tech_ | Notes |
 |-----|-----|
 | Mix Engineer | Mixing and recording songs for artists since 2022, have worked in live sound and DJing as well |
-| Sailor | Long-time sailor, racing, cruising, large regattas, maintenance etc |
+| Sailor | Long-time sailor, racing, cruising, large regattas, maintenance, teaching, etc |
 | Musician | Played saxophone for over 14 years, live gigs, awards/recognitions |
 | Designer | Worked freelance as a graphic designer through college, have experience in graphic and web design, Figma, Adobe |
 | Photography | Hobby photographer, not much more to say there |
