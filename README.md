@@ -31,10 +31,13 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | React | ✅ | ✅ | ✅ | ✅ | Have made multiple webpages/dashboards, comfortable with the flux way of thinking |
 | Qt Widgets | ✅ | ✅ | ✅ |  | GUI library for my DAW project |
 | Next.js | ✅ | ✅ |  |  | Have used for one website project |
+| Node.js | ✅ | ✅ | ✅ | ✅ | Used Extensively |
+| D3.js | ✅ | ✅ | ✅ |  | Used for one project |
 | JUCE | ✅ | ✅ |  |  | Learned for audio dev, know how to get around, well read with the source code, but don't use it extensively |
 | Flask | ✅ | ✅ | ✅ |  | A few small backends and webapps |
 | Django | ✅ | ✅ |  |  | Learned it but never used it for projects or work |
 | **Spring Boot** | ✅ | ✅ | ✅ |  | Learned back in highschool, touching up now for web services |
+| Maven | ✅ | ✅ | | | Used in projects, not sure how much I don't know here |
 | REST | ✅ | ✅ | ✅ | ✅ | Used for most of my past projects/assignments |
 | **GraphQL** | ✅ | ✅ |  |  | Know how to write and use, haven't built anything with it yet |
 
@@ -49,6 +52,7 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | DynamoDB | ✅ | | | | Read the paper |
 | MySQL | | | | | |
 | MariaDB | | | | | |
+| Bigtable | | | | | |
 
 ### DevOps, CI/CD, Deployment, Lifecycle
 | _Technology_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
@@ -95,25 +99,50 @@ Empty slots are skills im either learning right now, or intend to learn soon
 | Lambda |  |  |  | | |
 | RDS |  |  |  | | |
 | S3 |  |  |  | | |
-taking an aws course, will fill this in soon
+| Sageflow |  |  |  |  |  |
+taking an aws cert course, will fill this in soon
 
 ### Data Science, Engineering, Big Data
 | _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
-| Apache Spark | ✅ | | | | Learning |
+| Apache Flink | ✅ | | | | Learning |
 | Apache Kafka | ✅ | | | | Learning |
+| Apache Spark |  | | | |  |
+| Apache Storm |  | | | |  |
+| Elasticsearch |  | | | |  |
 | JMP | ✅ | ✅ | ✅ | | Used for studies, pretty comfortable |
 | Excel | ✅ | ✅ | ✅ | ✅ | Used personally, professionally, not an expert but proficient |
 | Jupyter Notebooks | ✅ | ✅ | ✅ | ✅ | Pretty straightforward |
+| Numpy | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| Pandas | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| Seaborn | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| Plotly | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| Matplotlib | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| Scipy | ✅ | ✅ | ✅ | ✅ | Multiple Projects |
+| PySpark | | | | | |
 
-<sub>Under construction</sub>
 ### Machine Learning
 | _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
+| Pytorch | ✅ | ✅ | ✅ | ✅ | Used to build models |
+| Tensorflow | ✅ | ✅ | ✅ | ✅ | Used to build models |
+| SciKit Learn | ✅ | ✅ | ✅ | ✅ | Used to build models |
+| XGBoost/LightGBM | ✅ | ✅ | ✅ | ✅ | Used in multiple courses and projects |
+| NLTK/spaCy | ✅ | ✅ | ✅ |  | Used in multiple courses and projects |
+| MLFlow | ✅ |  |  |  | Learning |
+| Sageflow |  |  |  |  |  |
+| Classification | ✅ | ✅ | ✅ |  | Built many classification models |
+| Clustering | ✅ | ✅ | ✅ |  | Clustering projects, as well as a clustering algorithm for an ecommerce app |
+| Ensemble | ✅ | ✅ | ✅ |  | Grad-level courses |
+| Transfer-Learning | ✅ | ✅ | ✅ |  | Coursework, personal research and practice in relation to my DAW |
+| Transformers | ✅ | ✅ | ✅ | | Very well read, multiple grad-level courses, built/trained my own tranformers from scratch with success, understand ins/outs of cutting edge concepts such as Residual Vector Quantization |
+| Support Vector Machines | ✅ | ✅ | ✅ | | Extensive coursework, hands on implementation |
 
 ### Misc.
 | _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
+
+
 
 
 
