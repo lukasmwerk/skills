@@ -1,6 +1,6 @@
 The contents of the folders above are for my own personal use, tracking my knowledge and slowly backing up years of notes. The overview below is probably best if you want to quickly get an idea of what I know.
 
-_Note: This list only really includes concrete technical skills and technologies. I think of what makes up my engineering chops as much more than just the technologies I know and how fast I can code, but for the purposes of this skills overview, I'm highlighting the tangibles._
+_Note: This list only really includes concrete technical skills and technologies. I think of my engineering chops as consisting of much more than just how fast I can code and how many buzzword technologies I know, but for the purposes of this skills overview, I'm highlighting the tangibles._
 
 ## Skills Overview 
 *Only includes the most relevant skills*
