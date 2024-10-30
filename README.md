@@ -138,9 +138,13 @@ taking an aws cert course, will fill this in soon
 | Transformers | ✅ | ✅ | ✅ | | Very well read, multiple grad-level courses, built/trained my own tranformers from scratch with success, understand ins/outs of cutting edge concepts such as Residual Vector Quantization |
 | Support Vector Machines | ✅ | ✅ | ✅ | | Extensive coursework, hands on implementation |
 
-### Misc.
-| _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
-|-----|:-----:|:-----:|:-----:|:-----:|-----|
+### Hobbies, Other Passions and Skills
+| _Skill/Tech_ | Notes |
+|-----|-----|
+| Mix Engineer | Mixing and recording songs for artists since 2022, have worked in live sound and DJing as well |
+| Sailor | Long-time sailor, racing, cruising, large regattas, maintenance etc |
+| Designer | Worked freelance as a graphic designer through college, have experience in graphic and web design, Figma, Adobe |
+| Photography | Hobby photographer, the camera is always going to come on any hikes or trips |
 
 
 
