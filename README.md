@@ -107,7 +107,7 @@ taking an aws cert course, will fill this in soon
 ### Data Science, Engineering, Big Data
 | _Skill/Tech_ | Know the Basics | Studied It | Used It | Experienced/Fluent | Notes |
 |-----|:-----:|:-----:|:-----:|:-----:|-----|
-| Apache Flink | ✅ | | | | Learning |
+| **Apache Flink** | ✅ | ✅ | | | Studied the papers, docs and underlying theory, working on a practice app |
 | Apache Kafka | ✅ | | | | Learning |
 | Apache Spark |  | | | |  |
 | Apache Storm |  | | | |  |
