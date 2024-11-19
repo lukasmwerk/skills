@@ -150,6 +150,13 @@ taking an aws cert course, will fill this in soon
 | Designer | Worked freelance as a graphic designer through college, have experience in graphic and web design, Figma, Adobe |
 | Photography | Hobby photographer, not much more to say there |
 
+### World Languages
+| _Language_ | Notes |
+|-----|-----|
+| English | Fluent, Native, US Citizen |
+| German | Fluent, Native, German Citizen |
+| Spanish | Intermediate, Heritage |
+
 
 
 
