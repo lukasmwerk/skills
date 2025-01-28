@@ -9,3 +9,5 @@ This repository is a personal log that I use to map out what I know and what I'm
 - If you are taking inspiration from this repo or want to try something similar, just fork or copy it and run a script to empty the subfolders. I think starting with empty folders rather than my notes and materials is important.
 
 - Some of the extra features and scripts can very much be works in progress, I don't prioritize stability for these pushes, it's just a log repo, so those extra features might be broken or incomplete at times.
+
+For recruiters and anyone interested specifically in my technical skills, the readme should have all the info you need.
